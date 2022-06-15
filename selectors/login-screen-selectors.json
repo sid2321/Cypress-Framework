@@ -1,0 +1,7 @@
+{
+    "userName": "#username",
+    "userPassword": "#password",
+    "selectProductDropdown": "#selectDropdown",
+    "loginForm": ".login-form",
+    "loginButton": "#login-btn"
+}

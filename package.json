@@ -1,0 +1,17 @@
+{
+  "name": "inbetween",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "APPLITOOLS_ENV_NAME='QA' cypress open"
+  },
+  "author": "siddhant gaonker",
+  "license": "ISC",
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.26.1",
+    "cypress": "^10.1.0",
+    "eslint": "^8.17.0",
+    "eslint-plugin-cypress": "^2.12.1"
+  }
+}
